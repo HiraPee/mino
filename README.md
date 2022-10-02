@@ -2,9 +2,13 @@
 
 # 遊び方
 
+必要な boto3 を pip でインストール
+
 ```
 pip install boto3
 ```
+
+ファイルをダウンロード
 
 ```
 git clone https://github.com/HiraPee/mino/
