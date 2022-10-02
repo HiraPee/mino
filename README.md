@@ -3,6 +3,10 @@
 # 遊び方
 
 ```
+pip install boto3
+```
+
+```
 git clone https://github.com/HiraPee/mino/
 ```
 
